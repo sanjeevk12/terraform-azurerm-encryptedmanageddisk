@@ -1,6 +1,6 @@
 #Azure Encrypted Managed Disk Module
 provider "azurerm" {
-  #version = "~> 0.3"
+features {}
 }
 
 data "azurerm_resource_group" "passed" {
